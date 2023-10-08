@@ -14,6 +14,6 @@
    </div>
   <h1 align="center">Redes Sociais</h1>
     <a href = "https://www.linkedin.com/in/tainanperes/">
-      <img width="25" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
+      <img width="25" src="https://scontent.fcgh11-1.fna.fbcdn.net/v/t39.30808-6/266508013_1310876192718740_3641409993926890758_n.png?_nc_cat=108&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=RL9ygna_qQsAX-QTJG8&_nc_zt=23&_nc_ht=scontent.fcgh11-1.fna&oh=00_AfD39raDDpEKhvDNrzILUh76Yl7DtJY2wwlCmuMWD42hHg&oe=65288892">
     </a>
 </div>
