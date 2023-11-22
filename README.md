@@ -14,6 +14,38 @@
     <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
     <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
    </div>
+      <div style="display: inline_block">
+        <h1>Experiência Proficional</h1>
+        <li>
+          <b>Sele Sistemas:</b> Empresa de desenvolvimento de sofware para cartórios<br>
+          <b>Cargo:</b> Desenvolvedor Junior <b>Periodo:</b> Trabalho Atual (1 ano 10 meses)<br>
+          <b>Atribuições:</b> Correção de bugs e melhorias nos sistemas existentes e desenvolvimento de novos recursos
+          <br>__________________________________________________________________________________________________________________________
+        </li>
+          <li><b>Definity Tecnologia:</b> Empresa de HelpDesk a farmácias de Manipulação<br>
+            <b>Cargo:</b> Analista de Suporte <b>Periodo:</b> 1 ano 6 meses<br>
+            <b>Atribuições:</b> Analise e resolução de problemas de forma agíl, gestão da equipe de suporte, aplicação de treinamentos
+          </li>
+      </div>
+      <div tyle="display: inline_block">
+         <h1>Formação Acadêmica</h1>
+        <b>Bacharelado, Ciência da Computação</b> - Cursando<br>
+         <img width="60"  src="https://www.orbedobrasil.com.br/site/images/nicepage-images/pontos.gif">
+        <h1>Licenças e Certificados</h1><br>
+        <li>
+       Redes: dos conceitos iniciais à criação de uma intranet<br>
+          <b>Organização:</b> Alura<br>
+          <a href ="https://cursos.alura.com.br/certificate/ed96d795-f697-4577-8bdf-748a05669f5a"> <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Gnome-application-certificate.svg/1024px-Gnome-application-certificate.svg.png"></a>
+        </li>
+        <li>
+           C# primeiros passos: Lógica de Programação e Algoritmos<br>
+           <b>Organização:</b> Udemy<br>
+          <a href ="https://www.udemy.com/certificate/UC-286507d3-673c-473c-918e-743550943c34/"> <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Gnome-application-certificate.svg/1024px-Gnome-application-certificate.svg.png"></a>
+        </li>
+      </div>
+
+
+
   <h1 align="center">Redes Sociais</h1>
     <a href = "https://www.linkedin.com/in/tainanperes/">
       <img width="25" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg">
