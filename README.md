@@ -51,4 +51,7 @@
     <a href = "https://www.linkedin.com/in/tainanperes/">
       <img width="25" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg">
     </a>
+     <a href = "https://www.beecrowd.com.br/judge/pt/profile/925426">
+      <img width="25" src="https://www.beecrowd.com.br/judge/favicon.ico?1696127504">
+    </a>
 </div>
