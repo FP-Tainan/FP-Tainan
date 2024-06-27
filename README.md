@@ -19,7 +19,7 @@
         <h1>Experiência Proficional</h1>
         <li>
           <b>Sele Sistemas:</b> Empresa de desenvolvimento de sofware para cartórios<br>
-          <b>Cargo:</b> Desenvolvedor Junior <b>Periodo:</b> Trabalho Atual (1 ano 10 meses)<br>
+          <b>Cargo:</b> Desenvolvedor Full Stack C# <b>Periodo:</b>  2 anos 5 meses<br>
           <b>Atribuições:</b> Correção de bugs e melhorias nos sistemas existentes e desenvolvimento de novos recursos
           <br>__________________________________________________________________________________________________________________________
         </li>
