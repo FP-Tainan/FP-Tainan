@@ -55,3 +55,7 @@
       <img width="25" src="https://www.beecrowd.com.br/judge/favicon.ico?1696127504">
     </a>
 </div>
+<br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=P-Tainan&style=for-the-badge&color=orange" alt=""/>
+</div>
