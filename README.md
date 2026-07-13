@@ -1,10 +1,5 @@
 ## Opa, Tainan Aqui!
 
-<div>
-  <img  src="https://github-readme-stats.vercel.app/api?username=FP-Tainan&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FP-Tainan&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-<br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
@@ -39,27 +34,24 @@
    </div>
       <div tyle="display: inline_block">
          <h1>Formação Acadêmica</h1>
-        <b>Bacharelado, Ciência da Computação</b> - Cursando<br>
-         <img width="60"  src="https://www.orbedobrasil.com.br/site/images/nicepage-images/pontos.gif">
+        <b>Bacharel em Ciência da Computação</b> - Faccamp: Centro Universitário Campo Limpo Paulista - Formado em: 2025<br>
+         <img width="60"  src="https://images.icon-icons.com/1377/PNG/512/applicationpkixcert_92720.png">
         <h1>Licenças e Certificados</h1><br>
         <li>
        Redes: dos conceitos iniciais à criação de uma intranet<br>
           <b>Organização:</b> Alura<br>
-          <a href ="https://cursos.alura.com.br/certificate/ed96d795-f697-4577-8bdf-748a05669f5a"> <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Gnome-application-certificate.svg/1024px-Gnome-application-certificate.svg.png"></a>
+          <a href ="https://cursos.alura.com.br/certificate/ed96d795-f697-4577-8bdf-748a05669f5a"> <img width="40" src="https://images.icon-icons.com/1377/PNG/512/applicationpkixcert_92720.png"></a>
         </li>
         <li>
            C# primeiros passos: Lógica de Programação e Algoritmos<br>
            <b>Organização:</b> Udemy<br>
-          <a href ="https://www.udemy.com/certificate/UC-286507d3-673c-473c-918e-743550943c34/"> <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Gnome-application-certificate.svg/1024px-Gnome-application-certificate.svg.png"></a>
+          <a href ="https://www.udemy.com/certificate/UC-286507d3-673c-473c-918e-743550943c34/"> <img width="40" src="https://images.icon-icons.com/1377/PNG/512/applicationpkixcert_92720.png"></a>
         </li>
       </div>
 
   <h1 align="center">Redes Sociais</h1>
     <a href = "https://www.linkedin.com/in/tainanperes/">
       <img width="25" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg">
-    </a>
-     <a href = "https://www.beecrowd.com.br/judge/pt/profile/925426">
-      <img width="25" src="https://www.beecrowd.com.br/judge/favicon.ico?1696127504">
     </a>
 </div>
 <br>
